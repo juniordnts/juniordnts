@@ -7,7 +7,7 @@
 I'm a full stack developer based in Natal/RN.
 
 - 🔭 Working on personal projects/business ideas.
-- 🐚 I like Node, PHP and Python for my projects.
+- 🐚 I like Node, React, PHP and Python for my projects.
 
 
 Checkout my GitHub page 😉:
