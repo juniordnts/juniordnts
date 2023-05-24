@@ -4,13 +4,14 @@
 **juniordnts/juniordnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a full stack developer based in Natal/RN.
+Full stack developer based in Natal/RN.
+Focusing on Frontend
 
 - 🔭 Working on personal projects/business ideas.
-- 🐚 I like Node, React, PHP and Python for my projects.
+- 🐚 Node, React, PHP and Python for my projects.
 
 
-Checkout my GitHub page 😉:
+My GitHub page 😉:
 
 - [**Click Here**][githubpage] 
 
